@@ -6,7 +6,7 @@ The task involves pulling a 3-minute video from an online repository (e.g., Goog
 
 
 需要解決的問題：
-1. 用iMac或其他蘋果電腦時，影片经常跑不出來。頁面上只會有建好的slider和問題指示。
+1. 用iMac或其他蘋果電腦時，不管用任何浏览器，影片经常跑不出來。頁面上只會有建好的slider和問題指示。
 2. 用Windows電腦時，Google Chrome (Version 122.0.6261.129) 可以順利把整個頁面跑出來，但影片需要大概10秒才會出來並經常會卡住。
 3. 用不同顯示器比例，像是筆電或外接螢幕時，常常也會發生影片跑不出來的狀況，但是還沒找到規律。
 
